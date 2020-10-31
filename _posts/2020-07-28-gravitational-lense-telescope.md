@@ -46,9 +46,9 @@ Star shade :- මේක පාවිච්චි කරන්නෙ අභ්‍
 
 [3] [Direct Multipixel Imaging and Spectroscopy of an Exoplanet with a Solar Gravitational Lens Mission](https://arxiv.org/ftp/arxiv/papers/2002/2002.11871.pdf)
 
-[4] Lens-Like Action of a Star by the Deviation of Light in the Gravitational Field - DOI: 10.1126/science.84.2188.506
+[4] [Lens-Like Action of a Star by the Deviation of Light in the Gravitational Field](https://doi.org/10.1126/science.84.2188.506)
 
-[5] Gravitational lens of the sun: its potential for observations and communications over interstellar distances - DOI: 10.1126/science.205.4411.1133
+[5] [Gravitational lens of the sun: its potential for observations and communications over interstellar distances](https://doi.org/10.1126/science.205.4411.1133)
 
 [6] [Interstellar radio links enhanced by exploiting the Sun as a Gravitational Lens](https://doi.org/10.1016/j.actaastro.2010.06.039)
 
