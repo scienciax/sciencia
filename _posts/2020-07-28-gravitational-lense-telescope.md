@@ -2,7 +2,7 @@
 layout: post
 title:  "ගුරුත්වජ කාච දුරේක්ෂය"
 author: adeesha
-categories: [ Space, Gravity, Cosmology ]
+categories: [ Gravity, Cosmology ]
 tags: [ Space ]
 image: "https://scontent.fcmb3-1.fna.fbcdn.net/v/t1.0-9/116250213_3466122206766092_3976893318216906502_o.jpg?_nc_cat=108&ccb=2&_nc_sid=b9115d&_nc_ohc=RteULX8iNIMAX_uWJN_&_nc_ht=scontent.fcmb3-1.fna&oh=4e44fa3bf2cc3e334715a71ae6ebf8e2&oe=5FC34643"
 ---
