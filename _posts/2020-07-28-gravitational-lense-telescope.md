@@ -44,27 +44,27 @@ Star shade :- මේක පාවිච්චි කරන්නෙ අභ්‍
 
 [2] [https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/](https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/)
 
-[3] Direct Multipixel Imaging and Spectroscopy of an Exoplanet with a Solar Gravitational Lens Mission - https://arxiv.org/ftp/arxiv/papers/2002/2002.11871.pdf 
+[3] [Direct Multipixel Imaging and Spectroscopy of an Exoplanet with a Solar Gravitational Lens Mission](https://arxiv.org/ftp/arxiv/papers/2002/2002.11871.pdf)
 
 [4] Lens-Like Action of a Star by the Deviation of Light in the Gravitational Field - DOI: 10.1126/science.84.2188.506
 
 [5] Gravitational lens of the sun: its potential for observations and communications over interstellar distances - DOI: 10.1126/science.205.4411.1133
 
-[6] Interstellar radio links enhanced by exploiting the Sun as a Gravitational Lens - https://doi.org/10.1016/j.actaastro.2010.06.039
+[6] [Interstellar radio links enhanced by exploiting the Sun as a Gravitational Lens](https://doi.org/10.1016/j.actaastro.2010.06.039)
 
-[7]Image formation for extended sources with the solar gravitational lens - 10.1103/PhysRevD.102.024038
+[7] [Image formation for extended sources with the solar gravitational lens](https://doi.org/10.1103/PhysRevD.102.024038)
 
-[8] https://exoplanets.nasa.gov/what-is-an-exoplanet/technology/ 
+[8] [https://exoplanets.nasa.gov/what-is-an-exoplanet/technology/](https://exoplanets.nasa.gov/what-is-an-exoplanet/technology/)
 
-[9] https://www.astro.caltech.edu/~george/ay20/eaa-microlensing.pdf
+[9] [https://www.astro.caltech.edu/~george/ay20/eaa-microlensing.pdf](https://www.astro.caltech.edu/~george/ay20/eaa-microlensing.pdf)
 
-[10] https://www.cosmos.esa.int/web/hipparcos/astrometry
+[10] [https://www.cosmos.esa.int/web/hipparcos/astrometry](https://www.cosmos.esa.int/web/hipparcos/astrometry)
 
-[11] http://www.as.utexas.edu/jefferys/slides/mcarthur.pdf
+[11] [http://www.as.utexas.edu/jefferys/slides/mcarthur.pdf](http://www.as.utexas.edu/jefferys/slides/mcarthur.pdf)
 
-[12] https://www.cfa.harvard.edu/~avanderb/tutorial/tutorial.html
+[12] [https://www.cfa.harvard.edu/~avanderb/tutorial/tutorial.html](https://www.cfa.harvard.edu/~avanderb/tutorial/tutorial.html)
 
-[13] https://exoplanets.nasa.gov/news/1653/discovery-alert-see-the-image-2-planets-orbit-a-sun-like-star/
+[13] [https://exoplanets.nasa.gov/news/1653/discovery-alert-see-the-image-2-planets-orbit-a-sun-like-star/](https://exoplanets.nasa.gov/news/1653/discovery-alert-see-the-image-2-planets-orbit-a-sun-like-star/)
 
-[14] https://www.youtube.com/watch?v=NQFqDKRAROI&t=437s
+[14] [https://www.youtube.com/watch?v=NQFqDKRAROI&t=437s](https://www.youtube.com/watch?v=NQFqDKRAROI&t=437s)
 
