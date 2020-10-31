@@ -40,9 +40,9 @@ Star shade :- මේක පාවිච්චි කරන්නෙ අභ්‍
 
 මුලාශ්‍ර :- 
 
-[1] https://exoplanets.nasa.gov/ 
+[1] [https://exoplanets.nasa.gov/](https://exoplanets.nasa.gov/) 
 
-[2] https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/
+[2] [https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/](https://exoplanets.nasa.gov/alien-worlds/ways-to-find-a-planet/)
 
 [3] Direct Multipixel Imaging and Spectroscopy of an Exoplanet with a Solar Gravitational Lens Mission - https://arxiv.org/ftp/arxiv/papers/2002/2002.11871.pdf 
 
