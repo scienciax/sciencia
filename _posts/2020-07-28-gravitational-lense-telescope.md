@@ -2,8 +2,9 @@
 layout: post
 title:  "ගුරුත්වජ කාච දුරේක්ෂය"
 author: adeesha
-categories: [ Space, Gravity, Exo-planet ]
+categories: [ Space, Gravity, Cosmology ]
 tags: [ Space ]
+image: "https://scontent.fcmb3-1.fna.fbcdn.net/v/t1.0-9/116250213_3466122206766092_3976893318216906502_o.jpg?_nc_cat=108&ccb=2&_nc_sid=b9115d&_nc_ohc=RteULX8iNIMAX_uWJN_&_nc_ht=scontent.fcmb3-1.fna&oh=4e44fa3bf2cc3e334715a71ae6ebf8e2&oe=5FC34643"
 ---
 
 ඈත තරු අතරට එබීබලන්න, විශ්වයේ සැඟවුණු රහස් හොයන්න අපිට තියෙන්නෙ නොනිම් ආසාවක්. තාක්‍ෂණයේ දියුණුවත් එක්ක අති නවීණ දුරේක්ෂ පාවිච්චි කරල ඈත තියන චක්‍රාවාට, නෙබියුලා, තරු පොකුරු ආදී එකී මෙකී නොකී විශ්මිත වස්තූන් බලන්නත් පුළුවන් කම ලැබිල තියනව. ඒත් ඔය මොකක් බැලුවත් එක දෙයක් දකිනව වගේ විශ්මයක් ඇතිවෙන්නෙ නෑ. ඒ තමයි අපේ පෘතුවිය වගේ තවත් ග්‍රහලෝකයක්.
