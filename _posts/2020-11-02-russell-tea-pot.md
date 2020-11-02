@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ඇයි කිව්වෙ නැත්තෙ?"
+title:  "රසල්ගේ තේ පෝච්චිය"
 author: adeesha
 categories: [ Buddhism ]
 tags: [ Knowledge, Religion ]
