@@ -4,7 +4,7 @@ title:  "වවුල් පොල"
 author: adeesha
 categories: [ Nature ]
 tags: [ Bat, Conservation ]
-image: "https://scontent.fcmb3-1.fna.fbcdn.net/v/t1.0-9/101382948_3304311552947159_2100932176810868736_o.jpg?_nc_cat=102&ccb=2&_nc_sid=b9115d&_nc_ohc=9_8wMthP82YAX_dy7jo&_nc_ht=scontent.fcmb3-1.fna&oh=2910177351f5bd2b8428dfc19d8dd170&oe=5FC67108"
+image: "https://raw.githubusercontent.com/scienciax/sciencia/master/assets/images/posts/ajp/cov/bat.jpg"
 ---
 
 වවුල්ලු වාසය කරන තැන් වලට අපේ මිනිස්සු කිවුවෙ වවුල් පොල කියල. වවුල් පොල කියන්නෙ හරිම අපිරිසිදු, ගඳ ගහන තැනක්. වවුල කිව්වහමත් අපිට එන්නෙ බොහොම අප්‍රසන්න හැඟීමක්. ඒත් අපි හුරතල් කරන සත්තුන්ට වඩා වවුලන් අපිට මහා සේවාවන් ගොඩක් කරනව.
