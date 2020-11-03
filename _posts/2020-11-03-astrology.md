@@ -4,7 +4,7 @@ title:  "ජෝතිෂ්‍යය"
 author: adeesha
 categories: [ Astrology ]
 tags: [ Knowledge , Life ]
-image: "\assets\images\posts\ajp\cov\zodiac.jpg"
+image: "https://raw.githubusercontent.com/scienciax/sciencia/master/assets/images/posts/ajp/cov/zodiac.jpg"
 ---
 
 **මෙම ලිපිය 2015 මාර්තු මස ලියන ලද ලිපියකි **
