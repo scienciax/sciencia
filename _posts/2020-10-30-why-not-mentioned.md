@@ -4,7 +4,7 @@ title:  "ඇයි කිව්වෙ නැත්තෙ?"
 author: adeesha
 categories: [ Buddhism ]
 tags: [ Knowledge, Religion ]
-image: "https://1.bp.blogspot.com/-6eOrQe04Gus/WzoqVL1mYSI/AAAAAAAAAws/xIyQZld9pA04S2qYBCTPbLDUi13eRKxIQCEwYBhgL/s1600/2000px-Planets2013.svg.png"
+image: "https://raw.githubusercontent.com/scienciax/sciencia/master/assets/images/posts/ajp/cov/solarsystem.png"
 ---
 
 මේ වෙද්දි ෆේස්බුක් වල “ට්‍රෙන්ඩ්” එකක් වෙලා තියන දෙයක් තමයි නිරාගමිකත්වය. ගොඩක් තරුණ තරුණියෝ තමන් නිරාගමික බව පෙන්වන්නත්, තමන් සාමාන්‍ය සමාජයට වඩා “වෙනස්” විදිහකට සිතන බව පෙන්වන්නත්, තමන් ආගමික බැඳීම් වලින් තොර චින්තනමය වශයෙන් ස්වාධීන බව පෙන්වන්නත් උත්සුක වෙනව. මේ ලිපියෙන් උත්සාහ ගන්නෙ නිරාගමිකත්වය ගැන විග්‍රහයක් කරන්න නෙවෙයි. නිරාගමිකයන් මතුකරන පොදු ප්‍රශ්නයකට උත්තර දෙන්න.
