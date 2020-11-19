@@ -4,7 +4,7 @@ title:  "ක්වොන්ටම් බිටුව (QuBit)"
 author: upsal
 categories: [ Atoms, Computing, QuantumBit ]
 tags: [ Quantum ]
-image: "https://scontent.fcmb1-1.fna.fbcdn.net/v/t1.0-9/91576463_523317791905258_7637193266722504704_n.jpg?_nc_cat=103&ccb=2&_nc_sid=b9115d&_nc_ohc=1u9qh_MeMl8AX-IiEof&_nc_ht=scontent.fcmb1-1.fna&oh=9bb64699503f326fbec2d4608c697b2f&oe=5FC45C03"
+image: "https://raw.githubusercontent.com/scienciax/sciencia/master/assets/images/posts/upsal/quantum_computing.jpg"
 ---
 
 තොරතුරු හා පරිඝනක තාක්සනයේදී භාවිතා වන බිටුවක් යනු කුමක්ද ? එය විදුලිය ගැලීමක් සහ නොගැලීමක් නැතිනම් ස්ථාවර අඩු වෝල්ටීය තාවයක් හා ස්ථාවර වැඩි වෝල්ටීය තාවයක් ලෙස නැතිනම් චුම්භක යක ධ්‍රැව යොමුවුනු දිශාව ආදී නොයෙකුත් ආකාර වලින් නිරූපනය කරන වෙනස් අවස්තා දෙකකි. පහසුව සදහා 0 හා 1 ලෙස නිරූපනය කෙරේ.

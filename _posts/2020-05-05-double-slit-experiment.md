@@ -4,7 +4,7 @@ title:  "තවමත් නොවිසදුනු ද්විත්ව ස�
 author: upsal
 categories: [ Double-slit, Light ]
 tags: [ Quantum ]
-image: "https://scontent.fcmb1-1.fna.fbcdn.net/v/t1.0-9/92451613_523063975263973_4079928273583210496_n.jpg?_nc_cat=105&ccb=2&_nc_sid=b9115d&_nc_ohc=NGPbjIhklhkAX_xHGbe&_nc_ht=scontent.fcmb1-1.fna&oh=9c0c55cb14f53ad1de3e866eb4a34922&oe=5FC491E6"
+image: "https://raw.githubusercontent.com/scienciax/sciencia/master/assets/images/posts/upsal/double-slit-experiment.jpg"
 ---
 
 ලෝකය හැදිල තියෙන්නේ මොනවායිද ඇහුවොත් අපි ඉගෙන ගෙන තියෙන විදිහට පරමාණු වලින් කියලා කියන්න පුලුවන්නේ .
