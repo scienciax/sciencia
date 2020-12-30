@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "නිවන ?"
+title:  "බුදු දහම පිලිබඳ වැරදි මත - 2"
 author: upsal
 categories: [ Buddhism ]
 tags: [ Buddhism ]
