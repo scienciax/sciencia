@@ -1,0 +1,47 @@
+<svg width="555" height="870" version="1.2" xmlns="http://www.w3.org/2000/svg">
+<g fill="none" stroke="#000" stroke-width="1.25">
+<path d="M11.79 90.79a650 650 0 0 1 389-9"/>
+<path d="M216.16 682.79a71 19 0 1 0 .02 0ZM144.67 701.79h143M267.98 680.04l-13.06 5.88 10.56 9.75M166.04 707.29l6.81 9.69-9.68 9.12" stroke-width="2.5"/>
+<circle cx="216.04" cy="701.79" r="7.25" fill="#FF0"/>
+<g fill="#00F">
+<circle cx="143.79" cy="701.79" r="7.5"/>
+<circle cx="288.53" cy="701.79" r="7.5"/>
+</g>
+<g fill="#FC80FF" stroke="#808080">
+<circle cx="150.17" cy="69.79" r="7.25"/>
+<circle cx="253.42" cy="69.79" r="7.25"/>
+<g fill="none">
+<path d="M201.66 63.71a52.44 5.96 0 1 0 .01 0Zm-52.8 5.96H254.47m-24.79-8.85-9.65 2.9 9.57 4.12m-56.74 3.02 5.39 3.93-6.63 3.3" stroke-width=".53"/>
+<path d="M204.13 224.82a105 105 0 0 1 20.68 1.5"/>
+<path d="M252.25,69.55 207.17,330.67 199.79,68.79" stroke-width="1"/>
+</g>
+</g>
+</g>
+<circle cx="27.29" cy="85.79" r="4"/>
+<circle cx="94.79" cy="68.29" r="4"/>
+<circle cx="156.79" cy="58.29" r="4"/>
+<circle cx="210.29" cy="56.29" r="4"/>
+<circle cx="294.79" cy="60.29" r="4"/>
+<circle cx="363.79" cy="72.29" r="4"/>
+<g fill="none" stroke="#000">
+<path d="M226.11 329.68h215.6M417.54 308.4V722.2m19.33-20.3H304.42m-160.69-5.98 62.85-362.78 9.46 368.4"/>
+<path d="M240.79 784.1H115.29M142.91 717.22V802.5M216.04 716.83v85.29" stroke-width=".89"/>
+<path d="M401.1 346.11l36.26-36.25M401.34 720.03l36.26-36.26M125.8 800.64l36.26-36.26M199.79 800.64l36.25-36.26" stroke-width="5"/>
+</g>
+<circle cx="207.17" cy="330.67" r="7.25" fill="#F0F" stroke="#000" stroke-width="1.25"/>
+<path d="M262.79 235.79 224.48 215.7m10.56-1.47-10.62 1.5 5.87 9.69m38.62-91.75L162.6 83.07m9.43-1.6-10.7.79 5.21 10.06m107.37 36.45L260 83.57m7.65 5.13-8.14-6.99-3.4 10.81" fill="none" stroke="#F0F" stroke-width="2.5"/>
+<g font-family="ArialMT" font-size="28">
+<text x="50.95" y="841.47">Earth's motion around Sun</text>
+<text x="136.54" y="36.79">Distant stars</text>
+<text x="63.6" y="337.36">Near star</text>
+<text x="273.47" y="155.7">Apparent parallax</text>
+<text x="273.47" y="189.3">motion of near star</text>
+<text x="265.85" y="256.83">Parallax angle</text>
+<text x="265.85" y="284.83">= 1 arc second</text>
+<text x="209.08" y="211.84" font-size="24">p</text>
+<text transform="matrix(0,-1,1,0,408.06,566.43)">1 Parsec</text>
+<text x="150.21" y="758.63">1</text>
+<text x="172.01" y="758.63">A</text>
+<text x="190.69" y="758.63">U</text>
+</g>
+</svg>
