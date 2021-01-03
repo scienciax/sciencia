@@ -2,7 +2,7 @@
 layout: post
 title:  "අන්තර්තාරීය දුර මැනීම"
 author: adeesha
-categories: [ Science ]
+categories: [ Cosmology ]
 tags: [ Space, Universe ]
 image: "https://raw.githubusercontent.com/scienciax/sciencia/master/assets/images/posts/ajp/cov/universe.jpg"
 ---
