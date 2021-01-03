@@ -24,7 +24,7 @@ image: "https://raw.githubusercontent.com/scienciax/sciencia/master/assets/image
 
 මේ වෙද්දී මිනිසා වැඩිම දුරක් යවපු යානාව වෙන වොයෙජර් 1 ට පුළුවන් වෙලා තියනව නක්‍ෂත්‍ර ඒකක 150ක් විතර දුරකට ගමන් කරන්න.
 
-
+[Astronomical unit](https://raw.githubusercontent.com/scienciax/sciencia/master/assets/images/posts/ajp/cont/au.png?raw=true)
 
 ආලෝක වර්ෂ (Light Year)
 මේක තමයි සාමාන්‍යයෙන් ජනප්‍රියම අන්තර් තාරීය දුර මැනීමේ ඒකකය. ආලෝකය වසරක් තුල ගමන්කරන දුර ආලෝක වර්ෂයක් හැටියට සැලකෙනව. නිවැරදිවම කිව්වොත් ආලෝකයේ වේගයෙන් ජූලියන් වසරක් තුල ගමන් කරන දුර තමයි ආලෝක වර්ෂයක් හැටියට සලකන්නෙ.
@@ -38,10 +38,12 @@ image: "https://raw.githubusercontent.com/scienciax/sciencia/master/assets/image
 අසම්පාතය - මේක අපි එදිනෙදා ජීවිතයේ අත්දකින සංසිද්ධියක්. අපිට තරමක් දුරිත් තියන වස්තුවක් දිහා ස්ථාන දෙකක ඉඳල බලද්දී ඒ වස්තුව පසුබිමින් වඩාත් ඈතින් තියන වස්තුවකට සාපේක්ෂව චලනය වෙනව වගේ පේනව. මෙන්න මේකට තමයි අසම්පාතය කියල කියන්නෙ.
 
 
+[Parallax](https://raw.githubusercontent.com/scienciax/sciencia/master/assets/images/posts/ajp/cont/parlex.svg?raw=true)
 
 දැන් පාසෙක් වලට මේ අසම්පාතය ගන්නෙ කොහොමද. අපි දන්නව අපි සුර්යයා වටේ ගමන් කරනව කියල. මේ ගමන නිසා අපිට පෙනෙන විශ්වයේ තරු සම්බන්ධවත් මේ අසම්පාතනය කියන සංසිද්ධිය ඇතිවෙනව. වඩා ලඟින් තියන තරු වල සාපේක්ෂ පිහිටීම ඒ තරුවට පසුබිමින් තියන තරු වලට සාපේක්ෂව වෙනස් වෙනව. ඉතින් යම් තරුවක අසම්පාත කෝණය විකලා එකක් හැටියට ගත්තොත්; අපේ පෘථිවියේ ඉඳල සුර්යයාට තියන දුර නක්‍ෂත්‍ර එකක එකක් හැටියට සැලකුවොත් අර උඩ කියපු තරුවට සුර්යයාගේ ඉඳල තියන දුර පාසෙක් එකක් හැටියට සැලකෙනව.
 
 
+[Parsec](https://raw.githubusercontent.com/scienciax/sciencia/master/assets/images/posts/ajp/cont/parlexx.svg?raw=true)
 
 මේ දුර ආසන්න වශයෙන් ආලෝක වර්ෂ 3.26156ක් එහෙමත් නැත්තං මීටර් 30856775814913673ක් වෙනව.
 ඉතිං ආලෝක වර්ෂයි පාසෙක් අතරයි ලොකු වෙනසක් නැත්තං ඇයි මේ වෙනම මිනුමක් කියල හිතෙන්න පුළුවන්. හැබැයි පාසෙක් පාවිච්චි කරද්දී දහයේ තුනේ බල වලින් විශේෂ විදිහට ලියනව (මෙට්‍රික් ක්‍රමයට). එහෙම ගත්තොත් පාසෙක්, කිලෝපාසෙක්, මෙගාපාසෙක්, ගිගාපාසෙක් වගේ විශාල මිනුම් අගයන් ගන්න පුළුවන්.
@@ -50,7 +52,7 @@ image: "https://raw.githubusercontent.com/scienciax/sciencia/master/assets/image
 
 මීට අමතරව තව දුර මනින ඒකක කිහිපයක් තියනව Transverse comoving distance, Angular diameter distance, Luminosity distance ආදිය එයින් කිහිපයක්.
 
-සියලු ජායාරුප [ wikimedia]( https://commons.wikimedia.org/) ඇසුරෙනි 
+සියලු ජායාරුප [wikimedia]( https://commons.wikimedia.org/) ඇසුරෙනි 
 
 
   
