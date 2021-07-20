@@ -13,6 +13,7 @@ image: "https://raw.githubusercontent.com/scienciax/sciencia/master/assets/image
 
 #### **Vulnerability, Exploit, Threat, Risk සහ Attack**
 
+
 ##### Vulnerability
 
 දුර්වලතාවය කියන තේරුම දෙන්න පුළුවන්. යම් පද්ධතියක සැලසුමේ, ක්‍රියාත්මක කිරීමේ, ක්‍රියා පටිපාටියේ හෝ පාලනයේ ඇති දුර්වලතාවයන් මේ යටතට වැටෙනව. තේරුම ගැනීමේ පහසුවට ප්‍රායෝගික උදාහරණයක් ගමු. ඔබට තට්ටු තුනක නිවසක් තියෙනව. මේ නිවසේ ඉහලම තට්ටුවේ එක නාන කාමරයක ජනේලයේ අගුලක් කැඩිල. ඒ වගේම ඉහලම තට්ටුවේ නිසා ඔබ ඒ ජනේලයට ග්‍රිල් එකක් දාලත් නෑ. දැන් ඔබේ නිවසේ දුර්වලතාවයන් 2ක් තියනව. එකක් අර ජනේලයට ග්‍රිල් එකක් නැති කම. අනික අගුල කැඩිල තියෙන එක. අපි හිතමු අගුල කැඩිල කියල ඔබ දන්නෙ නෑ කියල. දැන් ඒ දුර්වලතාව Zero Day Vulnerability එකක් හැටියට හඳුන්වනව. ඒ කියන්නෙ අපි නොදන්නා දුර්වලතාවයක්. ග්‍රිල් එකක් නොයෙදීම සැලසුමේ දුර්වලතාවයක් හැටියට සලකන්න පුලුවන්. ඔබ ජනේලයේ අගුල කැඩිල කියල දැනගත්තොත් දැන් ඒ දුර්වලතාවය Known Vulnerability එකක් හැටියට හඳුන්වනව. දැන් ඔබට පුළුවන් අලුතින් අගුලක් දාන්න. ඒ කියන්නෙ දුර්වලතාවයට විසඳුමක් ලබාදෙන්න. ඒ වගේ දෙකට කියනව security patch එකක් කියල. දැන් ඔබට පුළුවන් යාලුවෙක්ට උනත් කියන්න "අඩේ අපේ ගෙදර නානකාමරේ ජනේලෙ අගුලක් කැඩිල තිබ්බ. මම ඊයේ ඒක අලුතින් දැම්ම" කියල. මෙන්න මේ වගේ දෙයක් සාමාගම් වලිනුත් කරනව. හඳුනාගත්ත දුර්වලතා වලට විසඳුම් දුන්නහම ඒ ගැන විස්තරයක් ඔවුන් ප්‍රසිද්ධ කරනව. එතකොට අදාළ සමාගමෙන් සේවා ලබාගන්න අයට පුළුවන් දේ ගැන දැනුවත් වෙලා තමන්ගෙ පද්ධති යාවත්කාලීන කරගන්න. මේ වගේ දුර්වලතා වගේම ඒ දුර්වලතා වලින් ප්‍රයෝජන ගන්න පුළුවන් Exploit එහෙමත් ප්‍රසිද්ධ කරනව.
@@ -53,14 +54,14 @@ image: "https://raw.githubusercontent.com/scienciax/sciencia/master/assets/image
 
 **References**
 
-https://www.blumira.com/anatomy-of-the-solarwinds-attack-five-types-of-malware/
+[Five Types of Malware - SolarWinds](https://www.blumira.com/anatomy-of-the-solarwinds-attack-five-types-of-malware/)
 
-https://www.crowdstrike.com/blog/sunspot-malware-technical-analysis/
+[Sunspot analyze](https://www.crowdstrike.com/blog/sunspot-malware-technical-analysis/)
 
-https://orangematter.solarwinds.com/2021/01/11/new-findings-from-our-investigation-of-sunburst/
+[Sunburst investigation](https://orangematter.solarwinds.com/2021/01/11/new-findings-from-our-investigation-of-sunburst/)
 
-https://developer.apple.com/security-bounty/payouts/
+[Apple Bug Bounty](https://developer.apple.com/security-bounty/payouts/)
 
-https://www.rapid7.com/fundamentals/vulnerabilities-exploits-threats/
+[Vulnerabilities, Exploits and Threats - Rapid7](https://www.rapid7.com/fundamentals/vulnerabilities-exploits-threats/)
 
-https://www.rapid7.com/fundamentals/types-of-attacks/
+[Attack types - Rapid7](https://www.rapid7.com/fundamentals/types-of-attacks/)
