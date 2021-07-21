@@ -2,8 +2,8 @@
 layout: post
 title:  "Introduction to Cyber Security"
 author: adeesha
-categories: [Computer Security, Computer Science]
-tags: [ Computer Science, Cyber Security, IT ]
+categories: [Computer Security]
+tags: [ Computer Science, Cyber Security]
 image: "https://raw.githubusercontent.com/scienciax/sciencia/master/assets/images/posts/ajp/cov/cybersec.jpg"
 ---
 
