@@ -46,10 +46,11 @@ Relational Database වලින් වැඩ ගන්නම නිර්මා
 
 
 <form>
-  <label for="price">Province:</label><br>
-  <input type="text" id="price" name="price"><br><br>
+  <label for="district">Province:</label><br>
+  <input type="text" id="district" name="district"><br><br>
   <button disabled>Search Districts</button>
 </form> 
+
 
 
 <hr>
@@ -64,7 +65,7 @@ $conn = mysql_connect("localhost","username","password");
 
 // පරිශීලකයා දෙන දත්ත අනුව query එක හදනව
 
-$query = "SELECT * FROM districts WHERE province = '$_GET["price"]';
+$query = "SELECT * FROM districts WHERE province = '$_GET["district"]';
 
 // query එක රන් කරනව
 
